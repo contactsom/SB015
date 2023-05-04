@@ -1,0 +1,56 @@
+
+int a = 10;
+
+// int - Data Types
+// a   - Variable Name
+// =   - Assignment Operator
+// 10  - Constant Value
+
+
+In Python :
+-----------
+int a = 10
+int b = 20
+int c = a+b
+print(c) # 30
+
+
+
+addTwoNumber = 10+20
+print(addTwoNumber) #
+
+/// Today temperature
+float bangTemp=30.5
+print(bangTemp) #
+
+
+sum = 10.5 + 12.4
+print(sum) #22.9
+
+
+sum = 10.5 + 12.5
+print(sum) # 23.0
+
+
+
+List   : []
+Dict   : { : }
+Tuples : ()
+Set    : { }
+
+
+
+
+
+
+
+
+INT A = 20
+
+
+
+
+
+
+
+
