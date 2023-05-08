@@ -1,0 +1,9 @@
+
+name ="simplilearn"
+name ='''simplilearn'''
+name ="""simplilearn"""
+
+
+Multi Line Comment
+'''simplilearn'''
+"""simplilearn"""
