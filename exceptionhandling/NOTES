@@ -1,0 +1,57 @@
+
+# Try , Except , Else , Finally
+
+1. Try with Except
+
+2. Try with Multi Except
+
+3. Try Except , Finally
+
+4. Try with Multi Except , Finally
+
+5. Try with Except , else , Finally
+
+6. Try with Multi Except  , else , Finally
+
+7. Try with Finally
+
+i have to use only one except for all errors how to use it- Not recommended at all
+
+
+Quiz :
+1.
+    try:
+        print("Try")
+
+ANS:  In VALID
+-----------------------
+2.
+    except:
+        print("except")
+
+ANS:  INVALID
+-----------------------
+3.
+    else:
+        print("else")
+
+ANS:  INVALID
+-----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
