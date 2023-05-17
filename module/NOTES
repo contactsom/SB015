@@ -1,0 +1,42 @@
+MODULE :
+**********
+
+A group of function variables and class saved in a file is called module.
+
+Various way to import the module :
+import simplilearn
+import module1,module2,module3
+import simplilearn as  s
+import module1 as m1 ,module2 as m2,module3 as m3
+from simplilearn import myName,getAdd
+from simplilearn import a as myIntNumber, myName as myFriendsName, getAdd as getAddTwoNumber
+from simplilearn import *
+
+The Special Variables : '__name__'
+- for every python program , special variable name '__name__' will be added internally .
+- This variable store information regarding whether the program is executed as an indivisual
+   program or module
+- If the program executed as an indivisual program then the value of this variable is '__main__'
+
+-Hence by using this '__name__' variable we can identify whether the program executed  directly or as module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

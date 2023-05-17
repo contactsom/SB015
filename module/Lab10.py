@@ -1,0 +1,5 @@
+import Student
+
+Student.myFun()
+
+

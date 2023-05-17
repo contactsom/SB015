@@ -1,0 +1,32 @@
+
+Constructor Overloading :
+Which is not applicable in Python
+
+Overloading
+1. Method Name is Same
+2. Argument is different
+
+def __init__(self):
+def __init__(self,aa,bb,cc,dd,ee,ff):
+
+TODO
+- Defining a constructor is optional is python .If we are not providing the constructor
+- Python will create its own default constructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
