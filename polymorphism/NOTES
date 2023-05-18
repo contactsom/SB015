@@ -1,0 +1,61 @@
+WHAT IS THE "POLYMORPHISM"
+-POLY       - Many
+-MORPHISM   - Form
+-- Many Form
+
+Overloading:
+    1. Operator Overloading
+    2. Method Overloading
+    3. Constructor Overloading
+
+Overriding :
+    1. Method Overriding
+    2. Constructor Overriding
+
+
+Two Methods are said tobe overloaded IFF:
+    1. Method name should be same
+    2. Method Argument must be different
+
+    NOTES:
+        In Python method overloading are NOT Possible
+        If we are trying to declare the multiple method with in same name and different number of arguments
+        then Python will always CONSIDER THE LAST METHOD ONLY.
+
+        We can not perform the Method Overloading in simple way.
+        We have to take a help from if..... elif....else  Condition
+
+def getSum(self,a):
+def getSum(self,a,b):
+def getSum(self,a,b,c):
+def getSum(self,a,b,c,d):
+def getSum(self,a,b,c,d,e):
+def getSum(self,a,b,c,d,e,f):
+def getSum(self,a,b,c,d,e,f............ 100 Argument):
+..
+.
+.
+.
+
+def getSum(self,*a):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

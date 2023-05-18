@@ -1,0 +1,10 @@
+COMMAND FUNCTION:
+help : to display all the Command
+where : Display the stack trace and line number for the current line
+        "Where I Am"
+
+next : Execute the current line and move to the next line ignoring the function call if any.
+        "MOVE AHEAD "
+
+step : Step in to the function at the current line
+        "Go inside the Function"
