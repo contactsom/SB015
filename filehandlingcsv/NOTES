@@ -1,0 +1,12 @@
+
+CSV - comma separated values
+
+
+'r' : Open the reading file (Default)
+'w' : Open the writing , truncating the file first.
+'x' : Create a new file and open it for writing
+'a' : Open for writing , appending to the end of the file if exist.
+'b' : Binary File
+'t' : Text file (Default)
+'+' : Open a disk file for updating (Reading and Writing)
+'U' : Universal new Line mode (Deprecated)
